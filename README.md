@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrsAshleyDavis89
 - 👀 I’m interested in Reading, Writing, Coding and Gaming.
-- 🌱 I’m currently learning Python through Codecademy and Data Science Certification through @EntityAcademy.
+- 🌱 I’m currently learning Swift/iOS Dev through Codecademy.
 - 📫 How to reach me ... my work email ashleydavis89@att.net
 
 <!---
